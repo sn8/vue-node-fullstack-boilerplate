@@ -1,4 +1,4 @@
 import 'dotenv/config'
-import initServer from '@/helpers/initServer'
+import initServer from './helpers/initServer'
 
 initServer()
